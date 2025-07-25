@@ -1,0 +1,24 @@
+# Beginner To-Do List ✅
+
+A simple To-Do List web application created using HTML, CSS, and JavaScript.  
+This project is designed as a beginner-level task to practice DOM manipulation and user interactions.
+
+## 🔧 Features
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- Save tasks using LocalStorage
+
+## 📂 Technologies Used
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
+## 🌐 Live Demo
+Coming soon...
+
+## 📸 Screenshots
+(you can add screenshots of your project here)
+
+## 🧑‍💻 Author
+- GitHub: [omarhaitham666](https://github.com/omarhaitham666)
